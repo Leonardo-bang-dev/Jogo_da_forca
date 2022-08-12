@@ -128,6 +128,7 @@ while True:
 
             # Verificação de validade do valor digitado na variavel letra
             if len(letra) == 1:
+
                 acerto = False
                 # Verificando se a letra digitada esta na palavra
                 for a in range(0, len(palavra[1])):
