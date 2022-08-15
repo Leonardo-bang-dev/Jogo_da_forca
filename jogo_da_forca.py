@@ -24,7 +24,7 @@ while True:
         'dificil': [
             ('Animal', 'salamandra'),
             ('Profisão', 'diretor-geral'),
-            ('Objeto', 'Zarabatana'),
+            ('Objeto', 'zarabatana'),
         ]
     }
     banco_de_palavras_copia = banco_de_palavras.copy()
